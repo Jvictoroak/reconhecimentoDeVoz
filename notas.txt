@@ -1,0 +1,1 @@
+Math.random() //gera um numero aleatório entre 0 e 1
